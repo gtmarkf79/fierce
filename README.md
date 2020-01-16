@@ -1,2 +1,0 @@
-# fierce
-fierceberg-res
